@@ -1,0 +1,297 @@
+allele	signature_ambler	n_ops	hotspot_regions	min_dist_S70_A	cazavi_resistant_lit	lit_mutations	grade	n_isolates	year_first	year_last	n_2020plus	top_country	n_top_country	n_countries
+KPC-2	identical to KPC-2	0			no		no resistance evidence	34616	1996	2026	11872	China	19164	85
+KPC-3	H274Y	1	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	13788	2001	2026	5035	USA	7784	54
+KPC-4	P104R; V240G	2	loop237_243	12.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	108	2011	2026	78	USA	91	4
+KPC-5	P104R	1		13.1	no		no resistance evidence	14	2014	2026	2	USA	14	1
+KPC-6	V240G	1	loop237_243	12.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	51	2014	2026	44	USA	43	3
+KPC-7	M49I; H274Y	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1			0	unknown	1	1
+KPC-8	V240G; H274Y	2	loop237_243;loop266_275	12.9	yes	240  V240G   	documented CAZ-AVI resistance (literature)	20	2013	2021	4	USA	15	3
+KPC-9	del1-5_MSLYR; V240A; H274Y; del292_VNGQ	4	loop237_243;loop266_275	12.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-10	P104R; H274Y	2	loop266_275	13.1	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	7	2014	2025	6	USA	7	1
+KPC-11	P104L	1		13.1	no		no resistance evidence	1			0	unknown	1	1
+KPC-12	L169M	1	omega_loop	8.8	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	36	2014	2024	10	China	31	5
+KPC-13	D92G; H274Y	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-14	del242_GT	1	loop237_243	10.9	yes	242  del\_242-243\_GT   	documented CAZ-AVI resistance (literature)	16	2003	2024	11	China	10	5
+KPC-15	P104R; A120L; G147K; V240G; H274Y	5	loop237_243;loop266_275	12.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-16	P202S; F207L	2		16.2	no		no resistance evidence	0			0		0	0
+KPC-17	F207L	1		16.2	no		no resistance evidence	16	2014	2024	5	Taiwan	16	1
+KPC-18	V8I	1			no		no resistance evidence	30	2016	2026	26	USA	30	1
+KPC-19	H274Y; N293T	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-20	V29I	1			no		no resistance evidence	1	2017	2017	0	USA	1	1
+KPC-21	W105R	1		11.0	no		no resistance evidence	0			0		0	0
+KPC-22	W105G; F207L	2		11.0	no		no resistance evidence	0			0		0	0
+KPC-23	V240A; H274Y	2	loop237_243;loop266_275	12.9	yes	240  V240A   	documented CAZ-AVI resistance (literature)	36	2014	2025	11	Greece	14	7
+KPC-24	R6P	1			no		no resistance evidence	0			0		0	0
+KPC-25	ins165_EL	1	omega_loop	10.6	yes	165 ins\_165\_EL    	documented CAZ-AVI resistance (literature)	12	2020	2025	12	China	9	3
+KPC-26	A18S	1			no		no resistance evidence	0			0		0	0
+KPC-27	W105R; H274Y	2	loop266_275	11.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	4	2013	2014	0	Spain	4	1
+KPC-28	del242_GT; H274Y	2	loop237_243;loop266_275	10.9	yes	242  del\_242-243\_GT   	documented CAZ-AVI resistance (literature)	0			0		0	0
+KPC-29	ins269_KDD; H274Y	2	loop266_275	13.9	yes	269   ins\_269\_KDD  	documented CAZ-AVI resistance (literature)	6	2019	2024	3	USA	4	2
+KPC-30	R6H	1			no		no resistance evidence	2	2016	2016	0	Brazil	2	1
+KPC-31	D179Y; H274Y	2	loop266_275;omega_loop	10.0	yes	179 D179Y    	documented CAZ-AVI resistance (literature)	118	2014	2026	90	Italy	72	8
+KPC-32	D179Y; T243M; H274Y	3	loop237_243;loop266_275;omega_loop	10.0	yes	179 D179Y T243M   	documented CAZ-AVI resistance (literature)	2	2015	2015	0	USA	2	1
+KPC-33	D179Y	1	omega_loop	10.0	yes	179 D179Y    	documented CAZ-AVI resistance (literature)	173	2016	2025	146	China	115	15
+KPC-34	ins269_KDDKHSEA	1	loop266_275	19.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-35	L169P	1	omega_loop	8.8	yes	169 L169P    	documented CAZ-AVI resistance (literature)	6	2020	2022	6	China	4	3
+KPC-36	D163E; H274Y	2	loop266_275	13.2	yes	163 D163E    	documented CAZ-AVI resistance (literature)	2	2017	2019	0	Italy	2	1
+KPC-37	W165R; F207L	2	omega_loop	10.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-38	H274Y; V292A	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	3	2015	2025	2	USA	3	1
+KPC-39	A172T; H274Y	2	loop266_275;omega_loop	11.5	yes	172 A172T    	documented CAZ-AVI resistance (literature)	5	2018	2024	2	France	2	4
+KPC-40	ins165_EL; T243S; H274Y	3	loop237_243;loop266_275;omega_loop	10.6	yes	165 ins\_165\_EL T243S   	documented CAZ-AVI resistance (literature)	0			0		0	0
+KPC-41	ins267_PNK; H274Y	2	loop266_275	13.9	yes	267   ins\_267\_PNK  	documented CAZ-AVI resistance (literature)	2	2018	2018	0	not collected	2	1
+KPC-42	T254A	1		29.1	no		no resistance evidence	0			0		0	0
+KPC-43	Q191R	1		18.7	no		no resistance evidence	0			0		0	0
+KPC-44	ins261_AVYTRAPNKDDKHSE	1		16.6	yes	261   ins\_261\_AVYTRAPNKDDKHSE  	documented CAZ-AVI resistance (literature)	8	2020	2024	7	China	4	4
+KPC-45	T93K	1		23.6	no		no resistance evidence	1	2020	2020	1	USA	1	1
+KPC-46	L169P; H274Y	2	loop266_275;omega_loop	8.8	yes	 L169P    	documented CAZ-AVI resistance (literature)	7	2019	2024	5	Portugal	3	4
+KPC-47	A172T; T243A; H274Y	3	loop237_243;loop266_275;omega_loop	10.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-48	L169P; A172T; H274Y	3	loop266_275;omega_loop	8.8	yes	169 L169P/A172T    	documented CAZ-AVI resistance (literature)	0			0		0	0
+KPC-49	R164S; H274Y	2	loop266_275;omega_loop	11.9	yes	164 R164S    	documented CAZ-AVI resistance (literature)	7	2018	2024	5	Italy	4	2
+KPC-50	H274Y; ins275_EAV	2	loop266_275	13.9	yes	275   ins\_275\_EAV  	documented CAZ-AVI resistance (literature)	3	2024	2025	3	USA	2	2
+KPC-51	D179N; Y241H; H274N	3	loop237_243;loop266_275;omega_loop	10.0	yes	179 D179N Y241H  H274N 	documented CAZ-AVI resistance (literature)	1	2018	2018	0	China	1	1
+KPC-52	D179Y; ins262_V	2	omega_loop	10.0	yes	179 D179Y  ins\_262\_V  	documented CAZ-AVI resistance (literature)	1	2018	2018	0	China	1	1
+KPC-53	ins165_EL; H274Y	2	loop266_275;omega_loop	10.6	yes	165 ins\_165\_EL    	documented CAZ-AVI resistance (literature)	7	2016	2026	5	Italy	3	3
+KPC-54	A62S	1		19.1	no		no resistance evidence	0			0		0	0
+KPC-55	Y264N	1		11.9	no		no resistance evidence	0			0		0	0
+KPC-56	H274Y; G294W	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	9	2013	2022	4	USA	9	1
+KPC-57	D179V	1	omega_loop	10.0	yes	179 D179V    	documented CAZ-AVI resistance (literature)	3	2020	2022	2	China	2	2
+KPC-58	ins265_RAPNKDDN	1		13.2	yes	265   ins\_265\_RAPNKDDN  	documented CAZ-AVI resistance (literature)	1	2019	2019	0	Croatia	1	1
+KPC-59	G89D	1		26.4	no		no resistance evidence	0			0		0	0
+KPC-60	A120T	1		17.9	no		no resistance evidence	0			0		0	0
+KPC-61	S171P; H274Y	2	loop266_275;omega_loop	11.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	3	2020	2020	2	Brazil	2	2
+KPC-62	L169Q; H274Y	2	loop266_275;omega_loop	8.8	yes	169 L169Q    	documented CAZ-AVI resistance (literature)	11	2019	2023	9	Spain	7	3
+KPC-63	Y241S; H274Y	2	loop237_243;loop266_275	13.9	yes	241  Y241S   	documented CAZ-AVI resistance (literature)	0			0		0	0
+KPC-64	ins180_S; T243A; Y264H; H274Y	4	loop237_243;loop266_275	10.9	yes	180 ins\_180\_S T243A  Y264H 	documented CAZ-AVI resistance (literature)	0			0		0	0
+KPC-65	ins179_TY; H274Y	2	loop266_275;omega_loop	10.0	yes	179 ins\_179\_TY    	documented CAZ-AVI resistance (literature)	4	2017	2023	2	USA	4	1
+KPC-66	del166_EL; H274Y	2	loop266_275;omega_loop	8.9	yes	168 del\_168-169\_EL    	documented CAZ-AVI resistance (literature)	22	2019	2024	19	Italy	17	4
+KPC-67	ins269_KDDKDD; H274Y	2	loop266_275	13.9	yes	269   ins\_269\_KDDKDD  	documented CAZ-AVI resistance (literature)	3	2019	2020	2	Italy	3	1
+KPC-68	ins180_SS; H274Y	2	loop266_275	10.9	yes	180 ins\_180\_SS    	documented CAZ-AVI resistance (literature)	9	2019	2026	8	USA	4	4
+KPC-69	ins165_GL; H274Y	2	loop266_275;omega_loop	10.6	yes	165 ins\_165\_GL    	documented CAZ-AVI resistance (literature)	1	2020	2020	1	Italy	1	1
+KPC-70	D179Y; T265A; H274Y	3	loop266_275;omega_loop	10.0	yes	176 D176Y    	documented CAZ-AVI resistance (literature)	1	2020	2020	1	Italy	1	1
+KPC-71	ins180_S	1		10.9	yes	180 ins\_180\_S    	documented CAZ-AVI resistance (literature)	42	2017	2025	39	China	41	2
+KPC-72	A172D	1	omega_loop	11.5	yes	172 A172D    	documented CAZ-AVI resistance (literature)	10	2017	2023	9	China	10	1
+KPC-73	del166_EL; ins269_KDDKHS	2	loop266_275;omega_loop	8.9	yes	168 del\_168-169\_EL  ins\_269\_KDDKHS  	documented CAZ-AVI resistance (literature)	0			0		0	0
+KPC-74	del239_GV	1	loop237_243	10.6	yes	239  del\_239-240\_GV   	documented CAZ-AVI resistance (literature)	2	2020	2025	2	China	1	2
+KPC-75	L13F	1			no		no resistance evidence	2	2019	2019	0	China	2	1
+KPC-76	D179Y; ins262_VYTRAPN	2	omega_loop	10.0	yes	179 D179Y  ins\_262\_VYTRAPN  	documented CAZ-AVI resistance (literature)	3	2019	2022	2	China	3	1
+KPC-77	R164P	1	omega_loop	11.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2022	2022	1	China	1	1
+KPC-78	D179A	1	omega_loop	10.0	yes	179 D179A  ins\_265\_RAPNKDDN  	documented CAZ-AVI resistance (literature)	6	2019	2023	5	China	5	2
+KPC-79	ins262_VYTRAPN	1		13.6	yes	262   ins\_262\_VYTRAPN  	documented CAZ-AVI resistance (literature)	2	2019	2022	1	China	2	1
+KPC-80	ins267_PNK	1	loop266_275	17.2	yes	267   ins\_267\_PNK  	documented CAZ-AVI resistance (literature)	1	2019	2019	0	Argentina	1	1
+KPC-81	del173_I	1	omega_loop	15.3	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2020	2020	2	Argentina	1	2
+KPC-82	ins274_SD	1	loop266_275	13.9	yes	275   ins\_275\_SD  	documented CAZ-AVI resistance (literature)	0			0		0	0
+KPC-83	A34T	1		25.5	no		no resistance evidence	0			0		0	0
+KPC-84	T243P	1	loop237_243	10.9	yes	243  T243P   	documented CAZ-AVI resistance (literature)	10	2016	2025	6	China	10	1
+KPC-85	A172V; H274Y	2	loop266_275;omega_loop	11.5	yes	172 A172V    	documented CAZ-AVI resistance (literature)	3	2018	2021	1	Netherlands	2	2
+KPC-86	D179G	1	omega_loop	10.0	yes	179 D179G    	documented CAZ-AVI resistance (literature)	4	2022	2023	4	China	4	1
+KPC-87	del242_G; T243A	2	loop237_243	10.9	yes	242  del\_242\_G/ T243A   	documented CAZ-AVI resistance (literature)	0			0		0	0
+KPC-88	D176Y	1	omega_loop	16.6	yes	176 D176Y    	documented CAZ-AVI resistance (literature)	5	2017	2023	2	China	5	1
+KPC-89	T243M; H274Y	2	loop237_243;loop266_275	10.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-90	ins179_TY	1	omega_loop	10.0	yes	179 Ins\_179\_TY    	documented CAZ-AVI resistance (literature)	8	2018	2025	5	China	4	3
+KPC-91	V103L; H274Y	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2020	2020	1	Taiwan	1	1
+KPC-92	del166_EL; N170D; H274Y	3	loop266_275;omega_loop	7.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	3	2020	2020	3	Spain	3	1
+KPC-93	ins265_RAPNN	1		13.2	no		no resistance evidence	8	2021	2023	8	China	6	2
+KPC-94	del169_L; N170H; H274Y	3	loop266_275;omega_loop	7.9	yes	169 L169H/Del\_170\_N    	documented CAZ-AVI resistance (literature)	3	2017	2024	2	Italy	2	2
+KPC-95	A172T; D179Y; H274Y	3	loop266_275;omega_loop	10.0	yes	172 A172T/D179Y    	documented CAZ-AVI resistance (literature)	1	2018	2018	0	Spain	1	1
+KPC-96	Y241N	1	loop237_243	14.6	yes	241  Y241N   	documented CAZ-AVI resistance (literature)	1	2019	2019	0	Argentina	1	1
+KPC-97	ins274_SEAVN	1	loop266_275	13.9	yes	276   Ins\_276\_VNSEA  	documented CAZ-AVI resistance (literature)	1	2020	2020	1	Argentina	1	1
+KPC-98	R164H; H274Y	2	loop266_275;omega_loop	11.9	yes	164 R164H    	documented CAZ-AVI resistance (literature)	1	2023	2023	1	Italy	1	1
+KPC-99	R164S	1	omega_loop	11.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2020	2023	2	Romania	1	2
+KPC-100	T243M	1	loop237_243	10.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	3	2022	2023	3	China	3	1
+KPC-101	ins272_KH	1	loop266_275	18.2	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2023	2023	1	China	1	1
+KPC-102	D179Y; Y241D	2	loop237_243;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-103	ins269_KDDKHSEAVIAA	1	loop266_275	19.9	yes	270   Ins\_270\_KDDKHSEAVIAA  	documented CAZ-AVI resistance (literature)	2	2019	2019	0	Brazil	2	1
+KPC-104	ins179_TY; ins270_DDKHSE	2	loop266_275;omega_loop	10.0	yes	181 S181Y/Ins182\_TS  Ins\_271\_DDKHSEA  	documented CAZ-AVI resistance (literature)	1	2020	2020	1	Brazil	1	1
+KPC-105	L169Q; ins261_AVYTRAPNKDDKHSE	2	omega_loop	8.8	yes	263   Ins\_262\_VYTRAPNKDDKHSEA  	documented CAZ-AVI resistance (literature)	1	2020	2020	1	Brazil	1	1
+KPC-106	ins179_TY; ins274_SEAV	2	loop266_275;omega_loop	10.0	yes	181 S181Y/Ins182\_TS  Ins\_275\_SEAV  	documented CAZ-AVI resistance (literature)	1	2021	2021	1	Brazil	1	1
+KPC-107	ins180_SSPRAVTESLQKLTLGSALAAPQRQQFV	1		10.9	yes	180 Ins\_180\_SSPRAVTESLAQKLTLGSALAAPQRQQFV    	documented CAZ-AVI resistance (literature)	1	2020	2020	1	Brazil	1	1
+KPC-108	ins179_TSSPRAVTEN; ins261_AVYTRAPNKDDKHSE	2	omega_loop	10.0	yes	181 Ins\_181\_SPRAVTENTS  Ins\_262\_VYTRAPNKDDKHSEA  	documented CAZ-AVI resistance (literature)	1	2021	2021	1	Brazil	1	1
+KPC-109	ins268_NKDDKY; H274Y	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2021	2021	1	Italy	1	1
+KPC-110	G42R; D179Y; H274Y	3	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2021	2021	1	Italy	1	1
+KPC-111	P174L; D179Y; H274Y	3	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-112	del166_EL; del242_GT	2	loop237_243;omega_loop	8.9	yes	165 ins\_165\_EL del\_242-243\_GT   	documented CAZ-AVI resistance (literature)	2	2023	2024	2	China	2	1
+KPC-113	ins266_G	1	loop266_275	14.1	yes	166 Ins\_166\_G    	documented CAZ-AVI resistance (literature)	1	2020	2020	1	Brazil	1	1
+KPC-114	ins180_SS	1		10.9	yes	180 ins\_180\_SS    	documented CAZ-AVI resistance (literature)	2	2020	2023	2	unknown	1	2
+KPC-115	del169_LN; S171P; H274Y	3	loop266_275;omega_loop	7.9	yes	169 del\_169-170\_LN/S171P    	documented CAZ-AVI resistance (literature)	1	2021	2021	1	Argentina	1	1
+KPC-116	S171F	1	omega_loop	11.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-117	ins2_RCPI; L3F; Y4R; R6F	4			yes	2    Ins\_2\_RCP/L3I/Y4F 	documented CAZ-AVI resistance (literature)	0			0		0	0
+KPC-118	V103L; W165R; H274Y	3	loop266_275;omega_loop	10.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2020	2021	2	USA	2	1
+KPC-119	Q38H	1		25.3	no		no resistance evidence	1	2018	2018	0	USA	1	1
+KPC-120	P104R; D179Y	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-121	ins180_S; H274Y	2	loop266_275	10.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	3	2021	2023	3	Italy	2	2
+KPC-122	V8I; H274Y	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-123	ins179_TY; ins270_DDKHSEA	2	loop266_275;omega_loop	10.0	yes	180 ins\_180\_YT  ins\_271\_DDKHSEA  	documented CAZ-AVI resistance (literature)	0			0		0	0
+KPC-124	del166_EL; D179Y; H274Y	3	loop266_275;omega_loop	8.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2022	2022	2	Portugal	2	1
+KPC-125	D179A; H274Y	2	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2021	2025	2	Italy	2	1
+KPC-126	A172V	1	omega_loop	11.5	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	4	2020	2023	2	China	4	1
+KPC-127	ins165_EL; A172T	2	omega_loop	10.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2022	2025	2	China	2	1
+KPC-128	D179Y; T243M	2	loop237_243;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2022	2022	1	China	1	1
+KPC-129	N170H; ins262_VYTRAPNK	2	omega_loop	7.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2022	2022	1	China	1	1
+KPC-130	D179G; H274Y	2	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	5	2020	2026	5	Italy	5	1
+KPC-131	T216A	1		10.8	no		no resistance evidence	0			0		0	0
+KPC-132	ins265_RAPNKDDKS; H274Y	2	loop266_275	13.2	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2022	2022	1	Spain	1	1
+KPC-133	D179G; ins261_AVYTRAPNKDDKHSE	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-134	D179A; ins265_RAPNKDDN	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-135	del166_EL; ins261_AVYTRAPNKDDKHSE	2	omega_loop	8.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2023	2023	1	China	1	1
+KPC-136	P174L	1	omega_loop	17.2	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-137	P174L; G175D	2	omega_loop	17.2	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-138	L169P; T243A; ins274_SEAVN	3	loop237_243;loop266_275;omega_loop	8.8	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-139	D179Y; ins269_KDDKHS	2	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2020	2020	1	Brazil	1	1
+KPC-140	D179N; ins261_AVYTRAPNKDDKHSE	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2021	2021	1	Brazil	1	1
+KPC-141	D179Y; ins238_G	2	loop237_243;omega_loop	7.3	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2021	2022	2	Brazil	1	2
+KPC-142	ins180_S; ins272_KHSEAV	2	loop266_275	10.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2021	2021	1	Brazil	1	1
+KPC-143	D179Y; T187S	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2021	2021	1	Brazil	1	1
+KPC-144	A172T	1	omega_loop	11.5	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	52	2018	2023	26	China	52	1
+KPC-145	D179Y; T265A	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	4	2023	2024	4	China	4	1
+KPC-146	L3M	1			no		no resistance evidence	1			0	China	1	1
+KPC-147	L9M	1			no		no resistance evidence	0			0		0	0
+KPC-148	ins261_AVYTRAPNKDDKYSE; H274Y	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	7	2015	2024	6	USA	5	3
+KPC-149	N214S; H274Y	2	loop266_275	12.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-150	del167_LEL; N170H; H274Y	3	loop266_275;omega_loop	7.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1			0	Spain	1	1
+KPC-151	del241_YG; T243S	2	loop237_243	10.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-152	ins165_EL; ins263_YTRAPNKDDK; H274Y	3	loop266_275;omega_loop	10.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-153	ins165_EL; H274Y; E276D	3	loop266_275;omega_loop	10.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-154	ins265_RAPNKDDKYS; H274Y	2	loop266_275	13.2	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	3	2022	2022	3	Italy	3	1
+KPC-155	L169P; del242_G; T243A	3	loop237_243;omega_loop	8.8	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-156	G291D	1		29.8	no		no resistance evidence	0			0		0	0
+KPC-157	N132S	1		8.4	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	13	2016	2024	11	China	10	4
+KPC-158	A244V	1		8.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2017	2017	0	China	1	1
+KPC-159	D179E; del242_GT	2	loop237_243;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-160	del166_EL	1	omega_loop	8.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	5	2021	2024	5	China	4	2
+KPC-161	ins270_DDKHSEAVIAA	1	loop266_275	17.7	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-162	ins264_TRAPNKD	1		11.9	no		no resistance evidence	1	2022	2022	1	Argentina	1	1
+KPC-163	ins269_KDDKHS	1	loop266_275	19.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2022	2022	1	Argentina	1	1
+KPC-164	ins275_EAV	1	loop266_275	15.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-165	N170D	1	omega_loop	7.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-166	del169_L; N170H	2	omega_loop	7.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	9	2014	2022	8	Italy	8	2
+KPC-167	D179Y; ins270_DDKYSE; H274Y	3	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	4	2021	2022	4	Italy	4	1
+KPC-168	D176N	1	omega_loop	16.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	4	2016	2023	2	China	4	1
+KPC-169	del176_DAR	1	omega_loop	13.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2017	2017	0	China	1	1
+KPC-170	D179N	1	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	9	2017	2023	4	China	8	2
+KPC-171	ins274_SEAVIAAD	1	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2017	2017	0	China	1	1
+KPC-172	D179E	1	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	3	2016	2017	0	China	3	1
+KPC-173	ins168_LK	1	omega_loop	11.4	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	9	2016	2023	7	China	9	1
+KPC-174	del241_Y	1	loop237_243	14.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2019	2019	0	China	1	1
+KPC-175	ins179_T	1	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2019	2019	0	China	1	1
+KPC-176	S171P	1	omega_loop	11.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	7	2017	2024	6	China	7	1
+KPC-177	ins179_TSSPRAVTESLQN	1	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2016	2016	0	China	1	1
+KPC-178	P174L; H274Y	2	loop266_275;omega_loop	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2018	2018	0	USA	1	1
+KPC-179	A133T; ins180_S	2		10.9	no		no resistance evidence	2	2023	2023	2	China	2	1
+KPC-180	R164H	1	omega_loop	11.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2022	2023	2	China	2	1
+KPC-181	E276D	1		14.7	no		no resistance evidence	19	2016	2025	16	Brazil	17	3
+KPC-182	L287I	1		23.5	no		no resistance evidence	0			0		0	0
+KPC-183	ins269_KDDKYS; H274Y	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2019	2019	0	Italy	1	1
+KPC-184	H274Y; E276D	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	8	2019	2026	6	Italy	5	3
+KPC-185	D179G; del242_G; T243A	3	loop237_243;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-186	del178_RD	1	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-187	R164H; D179Y	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-188	ins180_S; ins262_VYTRAPN	2		10.9	no		no resistance evidence	0			0		0	0
+KPC-189	A172T; D179Y	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2023	2023	1	China	1	1
+KPC-190	D179Y; A244V	2	omega_loop	8.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2024	2024	2	China	2	1
+KPC-191	del178_R; D179P	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-192	ins259_VLAVYTRAPN	1		21.8	no		no resistance evidence	0			0		0	0
+KPC-193	ins268_NKA	1	loop266_275	19.7	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-194	D179Y; P183L	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2023	2023	1	China	1	1
+KPC-195	E288D	1		26.8	no		no resistance evidence	1	2011	2011	0	USA	1	1
+KPC-196	ins165_EL; D179Y	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-197	del166_EL; A177E; ins273_YS; H274D	4	loop266_275;omega_loop	8.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2023	2023	1	Colombia	1	1
+KPC-199	E168K; H274Y	2	loop266_275;omega_loop	11.4	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-200	del169_L; H274Y	2	loop266_275;omega_loop	8.8	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-201	del161_RLD; H274Y	2	loop266_275	11.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-202	ins274_SEAVIAAAAN	1	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2023	2023	1	China	1	1
+KPC-203	del166_EL; ins260_LAVYTRAPM; H274Y	3	loop266_275;omega_loop	8.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2022	2022	2	Italy	2	1
+KPC-204	ins269_KDD	1	loop266_275	19.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	6	2017	2023	3	China	5	2
+KPC-205	ins265_RAPNN; H274Y	2	loop266_275	13.2	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	3	2022	2025	3	Italy	2	2
+KPC-206	ins180_YS	1		10.9	no		no resistance evidence	0			0		0	0
+KPC-207	L169Q; ins274_S	2	loop266_275;omega_loop	8.8	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-208	L169Q; D179Y	2	omega_loop	8.8	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-209	ins179_TSSPRA	1	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-210	ins261_AVYTRAPNKDDKHSEAVYTRAPNKDDKHSE	1		16.6	no		no resistance evidence	0			0		0	0
+KPC-211	del176_DARD	1	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2023	2023	1	China	1	1
+KPC-212	R164L	1	omega_loop	11.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	5	2023	2023	5	China	5	1
+KPC-213	D163G	1		13.2	no		no resistance evidence	1	2023	2023	1	China	1	1
+KPC-214	R178H	1	omega_loop	13.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2023	2023	1	China	1	1
+KPC-215	I173S	1	omega_loop	15.3	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2023	2023	1	China	1	1
+KPC-216	ins169_K; H274Y	2	loop266_275;omega_loop	8.8	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2022	2022	2	Italy	1	2
+KPC-217	A172D; H274Y; E276D; N293T	4	loop266_275;omega_loop	11.5	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-218	P174L; H274Y; E276D; N293T	4	loop266_275;omega_loop	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-219	G42S; ins179_TY	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-220	L169R; ins262_VYTRAPNK	2	omega_loop	8.8	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-221	A133T; ins180_S; del242_GT	3	loop237_243	10.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-222	F40V; ins179_TY	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-223	V250F	1		19.9	no		no resistance evidence	0			0		0	0
+KPC-224	L169Q	1	omega_loop	8.8	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-225	del174_PGDAR; D179H; H274Y	3	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-226	del241_YG	1	loop237_243	14.1	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-227	D179Y; ins269_KDD	2	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	6	2023	2023	6	China	6	1
+KPC-228	del168_ELNS	1	omega_loop	7.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2021	2021	1	China	1	1
+KPC-229	ins274_SEAV	1	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-230	R164S; ins269_KDDKHS	2	loop266_275;omega_loop	11.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2024	2024	1	China	1	1
+KPC-231	S171Y; H274Y	2	loop266_275;omega_loop	11.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2022	2022	1	Italy	1	1
+KPC-232	T93K; H274Y	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-233	ins263_YTRAPI	1		13.5	no		no resistance evidence	0			0		0	0
+KPC-234	D179G; Y241D	2	loop237_243;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2023	2023	1	China	1	1
+KPC-236	Q87R	1		25.9	no		no resistance evidence	0			0		0	0
+KPC-237	del171_S	1	omega_loop	11.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-238	del166_EL; V240E; H274Y	3	loop237_243;loop266_275;omega_loop	8.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-239	del240_V; Y241D; H274Y	3	loop237_243;loop266_275	12.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	3	2022	2023	3	Italy	3	1
+KPC-240	del167_LELN; H274Y	2	loop266_275;omega_loop	7.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-241	del168_ELN	1	omega_loop	7.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-242	D179Y; ins260_LAVYTRAPN	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-243	ins265_RAPN	1		13.2	no		no resistance evidence	0			0		0	0
+KPC-244	N214T	1		12.6	no		no resistance evidence	3	2016	2019	0	USA	2	2
+KPC-245	ins263_YTRAPNKDD; H274Y; E276D	3	loop266_275	13.5	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2024	2024	1	Italy	1	1
+KPC-246	P104R; D179V	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-247	P104R; ins263_YTRAPN	2		13.1	no		no resistance evidence	0			0		0	0
+KPC-248	K73R; H274Y	2	loop266_275	5.7	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-249	ins179_TS	1	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-250	D179Y; ins268_N	2	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2023	2023	2	China	2	1
+KPC-251	ins180_S; ins261_AVYTRAPNKDDKYSE; H274Y	3	loop266_275	10.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-252	ins243_ANDYAA	1	loop237_243	10.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2022	2022	1	China	1	1
+KPC-255	D179Y; P268H	2	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-256	D179Y; ins261_AVYTRAPNKDDKHSE	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-257	del166_EL; ins262_VYTRAPNK	2	omega_loop	8.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-258	del162_LDRWELELNSAIP; G175H; D176G	3	omega_loop	7.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-259	ins264_TRAPN	1		11.9	no		no resistance evidence	1	2017	2017	0	USA	1	1
+KPC-260	del166_EL; ins273_YS; H274D	3	loop266_275;omega_loop	8.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-261	D179Y; ins266_APNKDE	2	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2021	2021	1	China	1	1
+KPC-262	P268S	1	loop266_275	19.7	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2022	2024	2	China	2	1
+KPC-263	ins238_G	1	loop237_243	7.3	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2018	2018	0	China	1	1
+KPC-264	S109P	1		15.7	no		no resistance evidence	2	2016	2025	1	China	1	2
+KPC-265	ins264_TRAPNKDDKHSEAVI	1		11.9	no		no resistance evidence	0			0		0	0
+KPC-266	ins275_EAVIAA	1	loop266_275	15.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-267	D179N; ins273_YSE; H274Y	3	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-268	D179Y; del242_GT	2	loop237_243;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-269	D179H; del242_GT	2	loop237_243;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-270	ins264_TRAPNKDDKYSEAVIAAAA; H274Y	2	loop266_275	11.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-271	D179Y; ins269_KDDKH	2	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-272	ins165_EL; ins273_YSEAV; H274N	3	loop266_275;omega_loop	10.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2025	2025	1	unknown	1	1
+KPC-273	ins174_GD	1	omega_loop	17.2	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-274	D179H	1	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-275	D179Y; T243P	2	loop237_243;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2025	2025	2	China	2	1
+KPC-276	T243A; H274Y	2	loop237_243;loop266_275	10.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	2	2015	2018	0	USA	1	2
+KPC-277	ins179_N	1	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-278	ins265_RAPNKD	1		13.2	no		no resistance evidence	0			0		0	0
+KPC-279	del166_EL; del242_G; T243A	3	loop237_243;omega_loop	8.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-280	del240_V; Y241D	2	loop237_243	12.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-281	A257S	1		27.5	no		no resistance evidence	1	2025	2025	1	Slovakia	1	1
+KPC-282	ins264_TRAPNK	1		11.9	no		no resistance evidence	1	2023	2023	1	Italy	1	1
+KPC-283	D179Y; ins273_HSEAVIAAAE	2	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-284	ins180_S; ins261_AVYTRAPNKDDKHSE	2		10.9	no		no resistance evidence	0			0		0	0
+KPC-285	del170_NSAIPGDARD	1	omega_loop	7.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-286	H274Y; A277V	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-287	L169Q; del242_GT	2	loop237_243;omega_loop	8.8	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2025	2025	1	China	1	1
+KPC-288	ins179_TF	1	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-289	del239_GV; Y241D	2	loop237_243	10.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-290	G42A; D179Y	2	omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-291	D179Y; del239_GV	2	loop237_243;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-292	E168N; H274Y	2	loop266_275;omega_loop	11.4	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-293	D179A; H274Y; E276D	3	loop266_275;omega_loop	10.0	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-294	P94R; S130T	2		6.2	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-295	ins165_EL; T243A; H274Y	3	loop237_243;loop266_275;omega_loop	10.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2022	2022	1	Italy	1	1
+KPC-296	ins171_AIPGDARDT; ins267_PNK; H274Y	3	loop266_275;omega_loop	11.6	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-297	ins168_LK; del242_GT	2	loop237_243;omega_loop	10.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2025	2025	1	China	1	1
+KPC-298	ins266_APNK	1	loop266_275	14.1	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-299	R164P; ins261_AVYTRAPNKDDKHSE	2	omega_loop	11.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
+KPC-300	P268T; H274R	2	loop266_275	13.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	1	2022	2022	1	China	1	1
+KPC-301	del162_LDRWE; H274Y	2	loop266_275;omega_loop	8.9	no		hotspot/active-site proximal - consistent with resistance (hypothesis)	0			0		0	0
