@@ -1,0 +1,1590 @@
+[
+ {
+  "pos": 3,
+  "pdb": null,
+  "zone": "NOT_IN_STRUCTURE",
+  "n_alleles": 3
+ },
+ {
+  "pos": 5,
+  "pdb": null,
+  "zone": "NOT_IN_STRUCTURE",
+  "n_alleles": 1
+ },
+ {
+  "pos": 8,
+  "pdb": null,
+  "zone": "NOT_IN_STRUCTURE",
+  "n_alleles": 1
+ },
+ {
+  "pos": 10,
+  "pdb": null,
+  "zone": "NOT_IN_STRUCTURE",
+  "n_alleles": 4
+ },
+ {
+  "pos": 11,
+  "pdb": null,
+  "zone": "NOT_IN_STRUCTURE",
+  "n_alleles": 3
+ },
+ {
+  "pos": 13,
+  "pdb": null,
+  "zone": "NOT_IN_STRUCTURE",
+  "n_alleles": 2
+ },
+ {
+  "pos": 14,
+  "pdb": null,
+  "zone": "NOT_IN_STRUCTURE",
+  "n_alleles": 2
+ },
+ {
+  "pos": 15,
+  "pdb": null,
+  "zone": "NOT_IN_STRUCTURE",
+  "n_alleles": 2
+ },
+ {
+  "pos": 16,
+  "pdb": null,
+  "zone": "NOT_IN_STRUCTURE",
+  "n_alleles": 1
+ },
+ {
+  "pos": 17,
+  "pdb": null,
+  "zone": "NOT_IN_STRUCTURE",
+  "n_alleles": 1
+ },
+ {
+  "pos": 21,
+  "pdb": null,
+  "zone": "NOT_IN_STRUCTURE",
+  "n_alleles": 2
+ },
+ {
+  "pos": 22,
+  "pdb": null,
+  "zone": "NOT_IN_STRUCTURE",
+  "n_alleles": 1
+ },
+ {
+  "pos": 23,
+  "pdb": 23,
+  "d_S70": 24.2,
+  "d_K73": 24.3,
+  "d_lig": 27.0,
+  "zone": "surface_other",
+  "n_alleles": 2,
+  "alleles": [
+   [
+    "OXA-54",
+    "K23N"
+   ],
+   [
+    "OXA-547",
+    "K23R"
+   ]
+  ]
+ },
+ {
+  "pos": 26,
+  "pdb": 26,
+  "d_S70": 25.2,
+  "d_K73": 26.8,
+  "d_lig": 20.2,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-731",
+    "Q26K"
+   ]
+  ]
+ },
+ {
+  "pos": 28,
+  "pdb": 28,
+  "d_S70": 25.4,
+  "d_K73": 27.7,
+  "d_lig": 14.6,
+  "zone": "surface_other",
+  "n_alleles": 2,
+  "alleles": [
+   [
+    "OXA-54",
+    "N28K"
+   ],
+   [
+    "OXA-731",
+    "N28T"
+   ]
+  ]
+ },
+ {
+  "pos": 29,
+  "pdb": 29,
+  "d_S70": 27.0,
+  "d_K73": 29.7,
+  "d_lig": 13.3,
+  "zone": "surface_other",
+  "n_alleles": 2,
+  "alleles": [
+   [
+    "OXA-54",
+    "K29P"
+   ],
+   [
+    "OXA-731",
+    "K29Q"
+   ]
+  ]
+ },
+ {
+  "pos": 33,
+  "pdb": 33,
+  "d_S70": 25.5,
+  "d_K73": 28.8,
+  "d_lig": 6.4,
+  "zone": "ligand_near",
+  "n_alleles": 4,
+  "alleles": [
+   [
+    "OXA-1307",
+    "A33S"
+   ],
+   [
+    "OXA-54",
+    "A33T"
+   ],
+   [
+    "OXA-547",
+    "A33V"
+   ],
+   [
+    "OXA-731",
+    "A33T"
+   ]
+  ]
+ },
+ {
+  "pos": 34,
+  "pdb": 34,
+  "d_S70": 22.3,
+  "d_K73": 25.5,
+  "d_lig": 4.9,
+  "zone": "ligand_near",
+  "n_alleles": 2,
+  "alleles": [
+   [
+    "OXA-923",
+    "H34Y"
+   ],
+   [
+    "OXA-934",
+    "H34Y"
+   ]
+  ]
+ },
+ {
+  "pos": 36,
+  "pdb": 36,
+  "d_S70": 23.9,
+  "d_K73": 27.6,
+  "d_lig": 8.1,
+  "zone": "surface_other",
+  "n_alleles": 3,
+  "alleles": [
+   [
+    "OXA-436",
+    "T36S"
+   ],
+   [
+    "OXA-535",
+    "T36S"
+   ],
+   [
+    "OXA-54",
+    "T36S"
+   ]
+  ]
+ },
+ {
+  "pos": 38,
+  "pdb": 38,
+  "d_S70": 21.4,
+  "d_K73": 24.5,
+  "d_lig": 2.4,
+  "zone": "ligand_near",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-199",
+    "H38Y"
+   ]
+  ]
+ },
+ {
+  "pos": 40,
+  "pdb": 40,
+  "d_S70": 19.0,
+  "d_K73": 22.4,
+  "d_lig": 9.6,
+  "zone": "surface_other",
+  "n_alleles": 4,
+  "alleles": [
+   [
+    "OXA-436",
+    "S40T"
+   ],
+   [
+    "OXA-535",
+    "S40T"
+   ],
+   [
+    "OXA-54",
+    "S40A"
+   ],
+   [
+    "OXA-731",
+    "S40T"
+   ]
+  ]
+ },
+ {
+  "pos": 44,
+  "pdb": 44,
+  "d_S70": 17.0,
+  "d_K73": 19.4,
+  "d_lig": 11.5,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-54",
+    "V44I"
+   ]
+  ]
+ },
+ {
+  "pos": 45,
+  "pdb": 45,
+  "d_S70": 16.5,
+  "d_K73": 18.0,
+  "d_lig": 16.1,
+  "zone": "surface_other",
+  "n_alleles": 4,
+  "alleles": [
+   [
+    "OXA-199",
+    "V45A"
+   ],
+   [
+    "OXA-252",
+    "V45A"
+   ],
+   [
+    "OXA-515",
+    "V45A"
+   ],
+   [
+    "OXA-546",
+    "V45A"
+   ]
+  ]
+ },
+ {
+  "pos": 51,
+  "pdb": 51,
+  "d_S70": 27.3,
+  "d_K73": 26.8,
+  "d_lig": 26.2,
+  "zone": "surface_other",
+  "n_alleles": 2,
+  "alleles": [
+   [
+    "OXA-436",
+    "K51T"
+   ],
+   [
+    "OXA-535",
+    "K51T"
+   ]
+  ]
+ },
+ {
+  "pos": 55,
+  "pdb": 55,
+  "d_S70": 20.8,
+  "d_K73": 22.4,
+  "d_lig": 18.1,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-731",
+    "F55Y"
+   ]
+  ]
+ },
+ {
+  "pos": 58,
+  "pdb": 58,
+  "d_S70": 20.7,
+  "d_K73": 22.8,
+  "d_lig": 17.2,
+  "zone": "surface_other",
+  "n_alleles": 3,
+  "alleles": [
+   [
+    "OXA-436",
+    "N58D"
+   ],
+   [
+    "OXA-535",
+    "N58D"
+   ],
+   [
+    "OXA-731",
+    "N58D"
+   ]
+  ]
+ },
+ {
+  "pos": 59,
+  "pdb": 59,
+  "d_S70": 21.5,
+  "d_K73": 23.2,
+  "d_lig": 20.4,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-1309",
+    "L59I"
+   ]
+  ]
+ },
+ {
+  "pos": 65,
+  "pdb": 65,
+  "d_S70": 12.9,
+  "d_K73": 15.4,
+  "d_lig": 14.3,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-1308",
+    "A65V"
+   ]
+  ]
+ },
+ {
+  "pos": 75,
+  "pdb": 75,
+  "d_S70": 6.8,
+  "d_K73": 3.7,
+  "d_lig": 11.8,
+  "zone": "catalytic_near",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-918",
+    "P75T"
+   ]
+  ]
+ },
+ {
+  "pos": 98,
+  "pdb": 98,
+  "d_S70": 15.9,
+  "d_K73": 14.6,
+  "d_lig": 12.5,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-204",
+    "Q98H"
+   ]
+  ]
+ },
+ {
+  "pos": 99,
+  "pdb": 99,
+  "d_S70": 16.3,
+  "d_K73": 15.4,
+  "d_lig": 12.9,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-204",
+    "T99R"
+   ]
+  ]
+ },
+ {
+  "pos": 104,
+  "pdb": 104,
+  "d_S70": 11.4,
+  "d_K73": 10.3,
+  "d_lig": 8.0,
+  "zone": "ligand_near",
+  "n_alleles": 22,
+  "alleles": [
+   [
+    "OXA-1119",
+    "T104A"
+   ],
+   [
+    "OXA-1181",
+    "T104A"
+   ],
+   [
+    "OXA-1201",
+    "T104A"
+   ],
+   [
+    "OXA-1205",
+    "T104A"
+   ],
+   [
+    "OXA-1207",
+    "T104A"
+   ],
+   [
+    "OXA-1211",
+    "T104A"
+   ],
+   [
+    "OXA-1226",
+    "T104A"
+   ],
+   [
+    "OXA-1305",
+    "T104A"
+   ],
+   [
+    "OXA-1307",
+    "T104A"
+   ],
+   [
+    "OXA-1308",
+    "T104A"
+   ],
+   [
+    "OXA-1309",
+    "T104A"
+   ],
+   [
+    "OXA-181",
+    "T104A"
+   ],
+   [
+    "OXA-232",
+    "T104A"
+   ],
+   [
+    "OXA-436",
+    "T104A"
+   ],
+   [
+    "OXA-484",
+    "T104A"
+   ],
+   [
+    "OXA-535",
+    "T104A"
+   ],
+   [
+    "OXA-54",
+    "T104A"
+   ],
+   [
+    "OXA-731",
+    "T104A"
+   ],
+   [
+    "OXA-833",
+    "T104A"
+   ],
+   [
+    "OXA-922",
+    "T104A"
+   ],
+   [
+    "OXA-923",
+    "T104A"
+   ],
+   [
+    "OXA-924",
+    "T104A"
+   ]
+  ]
+ },
+ {
+  "pos": 110,
+  "pdb": 110,
+  "d_S70": 12.8,
+  "d_K73": 8.9,
+  "d_lig": 13.8,
+  "zone": "surface_other",
+  "n_alleles": 22,
+  "alleles": [
+   [
+    "OXA-1119",
+    "N110D"
+   ],
+   [
+    "OXA-1181",
+    "N110D"
+   ],
+   [
+    "OXA-1201",
+    "N110D"
+   ],
+   [
+    "OXA-1205",
+    "N110D"
+   ],
+   [
+    "OXA-1207",
+    "N110D"
+   ],
+   [
+    "OXA-1211",
+    "N110D"
+   ],
+   [
+    "OXA-1226",
+    "N110D"
+   ],
+   [
+    "OXA-1305",
+    "N110D"
+   ],
+   [
+    "OXA-1307",
+    "N110D"
+   ],
+   [
+    "OXA-1308",
+    "N110D"
+   ],
+   [
+    "OXA-1309",
+    "N110D"
+   ],
+   [
+    "OXA-181",
+    "N110D"
+   ],
+   [
+    "OXA-232",
+    "N110D"
+   ],
+   [
+    "OXA-436",
+    "N110D"
+   ],
+   [
+    "OXA-484",
+    "N110D"
+   ],
+   [
+    "OXA-535",
+    "N110D"
+   ],
+   [
+    "OXA-54",
+    "N110D"
+   ],
+   [
+    "OXA-731",
+    "N110D"
+   ],
+   [
+    "OXA-833",
+    "N110D"
+   ],
+   [
+    "OXA-922",
+    "N110D"
+   ],
+   [
+    "OXA-923",
+    "N110D"
+   ],
+   [
+    "OXA-924",
+    "N110D"
+   ]
+  ]
+ },
+ {
+  "pos": 120,
+  "pdb": 120,
+  "d_S70": 4.2,
+  "d_K73": 3.8,
+  "d_lig": 3.4,
+  "zone": "catalytic_near",
+  "n_alleles": 2,
+  "alleles": [
+   [
+    "OXA-519",
+    "V120L"
+   ],
+   [
+    "OXA-788",
+    "V120L"
+   ]
+  ]
+ },
+ {
+  "pos": 121,
+  "pdb": 121,
+  "d_S70": 8.6,
+  "d_K73": 6.4,
+  "d_lig": 7.6,
+  "zone": "catalytic_near",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-1304",
+    "P121A"
+   ]
+  ]
+ },
+ {
+  "pos": 123,
+  "pdb": 123,
+  "d_S70": 7.1,
+  "d_K73": 3.4,
+  "d_lig": 9.1,
+  "zone": "catalytic_near",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-439",
+    "Y123H"
+   ]
+  ]
+ },
+ {
+  "pos": 125,
+  "pdb": 125,
+  "d_S70": 12.4,
+  "d_K73": 9.5,
+  "d_lig": 12.7,
+  "zone": "surface_other",
+  "n_alleles": 2,
+  "alleles": [
+   [
+    "OXA-245",
+    "E125Y"
+   ],
+   [
+    "OXA-535",
+    "E125G"
+   ]
+  ]
+ },
+ {
+  "pos": 127,
+  "pdb": 127,
+  "d_S70": 11.9,
+  "d_K73": 9.7,
+  "d_lig": 13.1,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-1242",
+    "A127S"
+   ]
+  ]
+ },
+ {
+  "pos": 129,
+  "pdb": 129,
+  "d_S70": 16.9,
+  "d_K73": 13.8,
+  "d_lig": 18.0,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-731",
+    "Q129K"
+   ]
+  ]
+ },
+ {
+  "pos": 132,
+  "pdb": 132,
+  "d_S70": 17.3,
+  "d_K73": 15.8,
+  "d_lig": 18.1,
+  "zone": "surface_other",
+  "n_alleles": 2,
+  "alleles": [
+   [
+    "OXA-54",
+    "E132Q"
+   ],
+   [
+    "OXA-731",
+    "E132Q"
+   ]
+  ]
+ },
+ {
+  "pos": 135,
+  "pdb": 135,
+  "d_S70": 12.1,
+  "d_K73": 9.3,
+  "d_lig": 14.8,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-1305",
+    "M135I"
+   ]
+  ]
+ },
+ {
+  "pos": 136,
+  "pdb": 136,
+  "d_S70": 16.9,
+  "d_K73": 14.2,
+  "d_lig": 19.7,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-731",
+    "S136N"
+   ]
+  ]
+ },
+ {
+  "pos": 141,
+  "pdb": 141,
+  "d_S70": 18.0,
+  "d_K73": 14.9,
+  "d_lig": 22.3,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-566",
+    "A141D"
+   ]
+  ]
+ },
+ {
+  "pos": 153,
+  "pdb": 153,
+  "d_S70": 12.6,
+  "d_K73": 11.3,
+  "d_lig": 13.0,
+  "zone": "surface_other",
+  "n_alleles": 6,
+  "alleles": [
+   [
+    "OXA-416",
+    "V153L"
+   ],
+   [
+    "OXA-436",
+    "V153L"
+   ],
+   [
+    "OXA-514",
+    "V153L"
+   ],
+   [
+    "OXA-535",
+    "V153L"
+   ],
+   [
+    "OXA-54",
+    "V153L"
+   ],
+   [
+    "OXA-731",
+    "V153L"
+   ]
+  ]
+ },
+ {
+  "pos": 154,
+  "pdb": 154,
+  "d_S70": 10.7,
+  "d_K73": 10.0,
+  "d_lig": 9.7,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-199",
+    "D154G"
+   ]
+  ]
+ },
+ {
+  "pos": 155,
+  "pdb": 155,
+  "d_S70": 9.3,
+  "d_K73": 10.8,
+  "d_lig": 8.7,
+  "zone": "surface_other",
+  "n_alleles": 3,
+  "alleles": [
+   [
+    "OXA-1038",
+    "S155T"
+   ],
+   [
+    "OXA-416",
+    "S155T"
+   ],
+   [
+    "OXA-514",
+    "S155T"
+   ]
+  ]
+ },
+ {
+  "pos": 159,
+  "pdb": 159,
+  "d_S70": 9.2,
+  "d_K73": 12.1,
+  "d_lig": 8.3,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-933",
+    "D159N"
+   ]
+  ]
+ },
+ {
+  "pos": 167,
+  "pdb": 167,
+  "d_S70": 15.1,
+  "d_K73": 15.9,
+  "d_lig": 17.3,
+  "zone": "surface_other",
+  "n_alleles": 7,
+  "alleles": [
+   [
+    "OXA-1038",
+    "T167I"
+   ],
+   [
+    "OXA-1226",
+    "T167I"
+   ],
+   [
+    "OXA-546",
+    "T167I"
+   ],
+   [
+    "OXA-547",
+    "T167I"
+   ],
+   [
+    "OXA-731",
+    "T167I"
+   ],
+   [
+    "OXA-894",
+    "T167I"
+   ],
+   [
+    "OXA-922",
+    "T167I"
+   ]
+  ]
+ },
+ {
+  "pos": 168,
+  "pdb": 168,
+  "d_S70": 13.3,
+  "d_K73": 13.0,
+  "d_lig": 16.5,
+  "zone": "surface_other",
+  "n_alleles": 21,
+  "alleles": [
+   [
+    "OXA-1119",
+    "E168Q"
+   ],
+   [
+    "OXA-1181",
+    "E168Q"
+   ],
+   [
+    "OXA-1201",
+    "E168Q"
+   ],
+   [
+    "OXA-1205",
+    "E168Q"
+   ],
+   [
+    "OXA-1207",
+    "E168Q"
+   ],
+   [
+    "OXA-1211",
+    "E168Q"
+   ],
+   [
+    "OXA-1226",
+    "E168Q"
+   ],
+   [
+    "OXA-1305",
+    "E168Q"
+   ],
+   [
+    "OXA-1307",
+    "E168Q"
+   ],
+   [
+    "OXA-1308",
+    "E168Q"
+   ],
+   [
+    "OXA-1309",
+    "E168Q"
+   ],
+   [
+    "OXA-181",
+    "E168Q"
+   ],
+   [
+    "OXA-232",
+    "E168Q"
+   ],
+   [
+    "OXA-436",
+    "E168Q"
+   ],
+   [
+    "OXA-484",
+    "E168Q"
+   ],
+   [
+    "OXA-535",
+    "E168Q"
+   ],
+   [
+    "OXA-731",
+    "E168Q"
+   ],
+   [
+    "OXA-833",
+    "E168Q"
+   ],
+   [
+    "OXA-922",
+    "E168Q"
+   ],
+   [
+    "OXA-923",
+    "E168Q"
+   ],
+   [
+    "OXA-924",
+    "E168Q"
+   ]
+  ]
+ },
+ {
+  "pos": 170,
+  "pdb": 170,
+  "d_S70": 13.4,
+  "d_K73": 13.6,
+  "d_lig": 16.6,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-54",
+    "I170V"
+   ]
+  ]
+ },
+ {
+  "pos": 171,
+  "pdb": 171,
+  "d_S70": 15.4,
+  "d_K73": 14.3,
+  "d_lig": 19.0,
+  "zone": "surface_other",
+  "n_alleles": 23,
+  "alleles": [
+   [
+    "OXA-1039",
+    "S171T"
+   ],
+   [
+    "OXA-1119",
+    "S171A"
+   ],
+   [
+    "OXA-1181",
+    "S171A"
+   ],
+   [
+    "OXA-1201",
+    "S171A"
+   ],
+   [
+    "OXA-1205",
+    "S171A"
+   ],
+   [
+    "OXA-1207",
+    "S171A"
+   ],
+   [
+    "OXA-1211",
+    "S171A"
+   ],
+   [
+    "OXA-1226",
+    "S171A"
+   ],
+   [
+    "OXA-1305",
+    "S171A"
+   ],
+   [
+    "OXA-1307",
+    "S171A"
+   ],
+   [
+    "OXA-1308",
+    "S171A"
+   ],
+   [
+    "OXA-1309",
+    "S171A"
+   ],
+   [
+    "OXA-181",
+    "S171A"
+   ],
+   [
+    "OXA-232",
+    "S171A"
+   ],
+   [
+    "OXA-436",
+    "S171A"
+   ],
+   [
+    "OXA-484",
+    "S171A"
+   ],
+   [
+    "OXA-535",
+    "S171A"
+   ],
+   [
+    "OXA-54",
+    "S171A"
+   ],
+   [
+    "OXA-731",
+    "S171E"
+   ],
+   [
+    "OXA-833",
+    "S171A"
+   ],
+   [
+    "OXA-922",
+    "S171A"
+   ],
+   [
+    "OXA-923",
+    "S171A"
+   ],
+   [
+    "OXA-924",
+    "S171A"
+   ]
+  ]
+ },
+ {
+  "pos": 201,
+  "pdb": 201,
+  "d_S70": 25.8,
+  "d_K73": 25.9,
+  "d_lig": 12.9,
+  "zone": "surface_other",
+  "n_alleles": 7,
+  "alleles": [
+   [
+    "OXA-416",
+    "G201A"
+   ],
+   [
+    "OXA-436",
+    "G201A"
+   ],
+   [
+    "OXA-515",
+    "G201S"
+   ],
+   [
+    "OXA-535",
+    "G201A"
+   ],
+   [
+    "OXA-538",
+    "G201A"
+   ],
+   [
+    "OXA-54",
+    "G201S"
+   ],
+   [
+    "OXA-731",
+    "G201A"
+   ]
+  ]
+ },
+ {
+  "pos": 211,
+  "pdb": 211,
+  "d_S70": 4.6,
+  "d_K73": 8.2,
+  "d_lig": 2.9,
+  "zone": "catalytic_near",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-247",
+    "Y211S"
+   ]
+  ]
+ },
+ {
+  "pos": 212,
+  "pdb": 212,
+  "d_S70": 6.1,
+  "d_K73": 10.3,
+  "d_lig": 4.8,
+  "zone": "catalytic_near",
+  "n_alleles": 8,
+  "alleles": [
+   [
+    "OXA-1211",
+    "S212L"
+   ],
+   [
+    "OXA-1240",
+    "S212G"
+   ],
+   [
+    "OXA-163",
+    "S212D"
+   ],
+   [
+    "OXA-247",
+    "S212N"
+   ],
+   [
+    "OXA-370",
+    "S212E"
+   ],
+   [
+    "OXA-439",
+    "S212D"
+   ],
+   [
+    "OXA-567",
+    "S212D"
+   ],
+   [
+    "OXA-788",
+    "S212D"
+   ]
+  ]
+ },
+ {
+  "pos": 213,
+  "pdb": 213,
+  "d_S70": 8.2,
+  "d_K73": 11.8,
+  "d_lig": 5.7,
+  "zone": "ligand_near",
+  "n_alleles": 6,
+  "alleles": [
+   [
+    "OXA-1119",
+    "T213I"
+   ],
+   [
+    "OXA-162",
+    "T213A"
+   ],
+   [
+    "OXA-436",
+    "T213V"
+   ],
+   [
+    "OXA-535",
+    "T213V"
+   ],
+   [
+    "OXA-538",
+    "T213G"
+   ],
+   [
+    "OXA-731",
+    "T213V"
+   ]
+  ]
+ },
+ {
+  "pos": 214,
+  "pdb": 214,
+  "d_S70": 9.2,
+  "d_K73": 9.9,
+  "d_lig": 6.0,
+  "zone": "ligand_near",
+  "n_alleles": 16,
+  "alleles": [
+   [
+    "OXA-1167",
+    "R214S"
+   ],
+   [
+    "OXA-1201",
+    "R214S"
+   ],
+   [
+    "OXA-1205",
+    "R214S"
+   ],
+   [
+    "OXA-1207",
+    "R214G"
+   ],
+   [
+    "OXA-1213",
+    "R214G"
+   ],
+   [
+    "OXA-1304",
+    "R214G"
+   ],
+   [
+    "OXA-1307",
+    "R214S"
+   ],
+   [
+    "OXA-1309",
+    "R214S"
+   ],
+   [
+    "OXA-232",
+    "R214S"
+   ],
+   [
+    "OXA-244",
+    "R214G"
+   ],
+   [
+    "OXA-438",
+    "R214G"
+   ],
+   [
+    "OXA-484",
+    "R214G"
+   ],
+   [
+    "OXA-567",
+    "R214K"
+   ],
+   [
+    "OXA-833",
+    "R214S"
+   ],
+   [
+    "OXA-922",
+    "R214G"
+   ],
+   [
+    "OXA-924",
+    "R214E"
+   ]
+  ]
+ },
+ {
+  "pos": 215,
+  "pdb": 215,
+  "d_S70": 11.4,
+  "d_K73": 15.1,
+  "d_lig": 9.4,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-438",
+    "I215Y"
+   ]
+  ]
+ },
+ {
+  "pos": 216,
+  "pdb": 216,
+  "d_S70": 13.8,
+  "d_K73": 18.0,
+  "d_lig": 12.3,
+  "zone": "surface_other",
+  "n_alleles": 2,
+  "alleles": [
+   [
+    "OXA-438",
+    "E216D"
+   ],
+   [
+    "OXA-517",
+    "E216K"
+   ]
+  ]
+ },
+ {
+  "pos": 217,
+  "pdb": 217,
+  "d_S70": 11.6,
+  "d_K73": 16.4,
+  "d_lig": 11.1,
+  "zone": "surface_other",
+  "n_alleles": 6,
+  "alleles": [
+   [
+    "OXA-1012",
+    "P217S"
+   ],
+   [
+    "OXA-1055",
+    "P217S"
+   ],
+   [
+    "OXA-438",
+    "P217T"
+   ],
+   [
+    "OXA-567",
+    "P217G"
+   ],
+   [
+    "OXA-920",
+    "P217S"
+   ],
+   [
+    "OXA-929",
+    "P217A"
+   ]
+  ]
+ },
+ {
+  "pos": 218,
+  "pdb": 218,
+  "d_S70": 11.6,
+  "d_K73": 16.0,
+  "d_lig": 10.4,
+  "zone": "surface_other",
+  "n_alleles": 2,
+  "alleles": [
+   [
+    "OXA-1212",
+    "K218N"
+   ],
+   [
+    "OXA-54",
+    "K218Q"
+   ]
+  ]
+ },
+ {
+  "pos": 219,
+  "pdb": 219,
+  "d_S70": 8.2,
+  "d_K73": 12.5,
+  "d_lig": 7.0,
+  "zone": "ligand_near",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-538",
+    "I219F"
+   ]
+  ]
+ },
+ {
+  "pos": 226,
+  "pdb": 226,
+  "d_S70": 16.8,
+  "d_K73": 17.0,
+  "d_lig": 17.1,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-436",
+    "V226I"
+   ]
+  ]
+ },
+ {
+  "pos": 237,
+  "pdb": 237,
+  "d_S70": 10.7,
+  "d_K73": 13.4,
+  "d_lig": 10.1,
+  "zone": "surface_other",
+  "n_alleles": 3,
+  "alleles": [
+   [
+    "OXA-436",
+    "M237T"
+   ],
+   [
+    "OXA-535",
+    "M237T"
+   ],
+   [
+    "OXA-731",
+    "M237T"
+   ]
+  ]
+ },
+ {
+  "pos": 244,
+  "pdb": 244,
+  "d_S70": 12.5,
+  "d_K73": 14.9,
+  "d_lig": 3.3,
+  "zone": "ligand_near",
+  "n_alleles": 6,
+  "alleles": [
+   [
+    "OXA-1181",
+    "S244W"
+   ],
+   [
+    "OXA-1205",
+    "S244W"
+   ],
+   [
+    "OXA-1207",
+    "S244W"
+   ],
+   [
+    "OXA-436",
+    "S244A"
+   ],
+   [
+    "OXA-535",
+    "S244A"
+   ],
+   [
+    "OXA-54",
+    "S244A"
+   ]
+  ]
+ },
+ {
+  "pos": 245,
+  "pdb": 245,
+  "d_S70": 15.2,
+  "d_K73": 17.7,
+  "d_lig": 6.2,
+  "zone": "ligand_near",
+  "n_alleles": 2,
+  "alleles": [
+   [
+    "OXA-436",
+    "D245E"
+   ],
+   [
+    "OXA-535",
+    "D245E"
+   ]
+  ]
+ },
+ {
+  "pos": 252,
+  "pdb": 252,
+  "d_S70": 16.3,
+  "d_K73": 18.8,
+  "d_lig": 6.0,
+  "zone": "ligand_near",
+  "n_alleles": 3,
+  "alleles": [
+   [
+    "OXA-436",
+    "A252T"
+   ],
+   [
+    "OXA-535",
+    "A252S"
+   ],
+   [
+    "OXA-731",
+    "A252T"
+   ]
+  ]
+ },
+ {
+  "pos": 256,
+  "pdb": 256,
+  "d_S70": 20.8,
+  "d_K73": 23.3,
+  "d_lig": 2.5,
+  "zone": "ligand_near",
+  "n_alleles": 2,
+  "alleles": [
+   [
+    "OXA-436",
+    "E256A"
+   ],
+   [
+    "OXA-535",
+    "E256A"
+   ]
+  ]
+ },
+ {
+  "pos": 259,
+  "pdb": 259,
+  "d_S70": 23.3,
+  "d_K73": 25.0,
+  "d_lig": 8.8,
+  "zone": "surface_other",
+  "n_alleles": 1,
+  "alleles": [
+   [
+    "OXA-833",
+    "K259T"
+   ]
+  ]
+ }
+]

@@ -1,0 +1,4254 @@
+{
+ "GCA_028512055.4|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_029323355.4|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_029598175.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_029732095.4|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031008505.2|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031008905.2|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031010745.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031014965.2|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031034075.2|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031038655.3|NDM|NDM-3": {
+  "organism_call": "NDM-3*NONEXACT",
+  "closest_ref": "NDM-3",
+  "subs": [
+   "E152K"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031043555.3|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031043755.3|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031056435.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "D130N",
+   "M154L"
+  ],
+  "n_subs": 2,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031114015.2|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031131525.3|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031136255.3|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031139515.2|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031212825.2|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031566655.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_031678805.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_032263545.2|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_032600305.2|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_032671545.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "del257A",
+   "del258A",
+   "del259I",
+   "del260T",
+   "del261H",
+   "del262T",
+   "del263A",
+   "del264R",
+   "del265M",
+   "del266A",
+   "del267D",
+   "del268K",
+   "del269L",
+   "del270R",
+   "del271*"
+  ],
+  "n_subs": 15,
+  "internal_stops": 0,
+  "prot_len": 256
+ },
+ "GCA_032822875.2|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_032856505.2|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_032868935.2|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "V155G"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_032944155.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_033144965.2|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_034466545.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_034466605.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_034701065.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_036468995.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_036581825.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_037104075.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_037887805.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "G29D"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_037930255.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_037933185.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_037934735.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_037935195.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_037936405.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_037937615.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_038419775.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "ins10S",
+   "ins10E",
+   "ins11E",
+   "ins11H",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N",
+   "Q37N",
+   "Q38W",
+   "M39R",
+   "E40P",
+   "del42G",
+   "D43V"
+  ],
+  "n_subs": 226,
+  "internal_stops": 6,
+  "prot_len": 271
+ },
+ "GCA_038487205.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M154L"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_038487525.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_039632165.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_039665715.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_039898345.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_040031075.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_040071045.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_040238065.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_040442885.1|NDM|NDM-4": {
+  "organism_call": "NDM-4*NONEXACT",
+  "closest_ref": "NDM-4",
+  "subs": [
+   "S249G"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_040442885.1|OXA48|OXA-181": {
+  "organism_call": "OXA-181*NONEXACT",
+  "closest_ref": "OXA-181",
+  "subs": [
+   "ins0L",
+   "ins0N",
+   "M1Y",
+   "V3D",
+   "L4E",
+   "A5V",
+   "A8C",
+   "V9A",
+   "F10C",
+   "del12V",
+   "del13A",
+   "I15R",
+   "G17C",
+   "M18P",
+   "del20A",
+   "del21V",
+   "del22A",
+   "del23K",
+   "E24N",
+   "Q26*",
+   "E27G",
+   "N28T",
+   "K29Y",
+   "S30E",
+   "W31*",
+   "del34H",
+   "del35F",
+   "del36T",
+   "del37E",
+   "del38H"
+  ],
+  "n_subs": 213,
+  "internal_stops": 12,
+  "prot_len": 138
+ },
+ "GCA_040453165.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_040824855.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_040828705.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_040871745.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_040898345.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_040964235.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_041193205.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_041209315.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_041298265.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_041463395.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_041796325.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_042177995.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_042177995.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "V88L",
+   "M154L"
+  ],
+  "n_subs": 2,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_042225485.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_042496045.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_042720265.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_043270745.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_043270885.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_043925555.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_043959715.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_044093795.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_044463805.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_044654005.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_044892775.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_044895485.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_044895485.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "V88L",
+   "M154L"
+  ],
+  "n_subs": 2,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_045426155.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_045445595.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "E152G"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_045445635.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "E152G"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_045445675.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "E152G"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_045445755.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "E152G"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_045717955.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_045718445.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "del256R",
+   "del257A",
+   "del258A",
+   "del259I",
+   "del260T",
+   "del261H",
+   "del262T",
+   "del263A",
+   "del264R",
+   "del265M",
+   "del266A",
+   "del267D",
+   "del268K",
+   "del269L",
+   "del270R",
+   "del271*"
+  ],
+  "n_subs": 16,
+  "internal_stops": 0,
+  "prot_len": 255
+ },
+ "GCA_045729735.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_046367555.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "del219G",
+   "N220X",
+   "L221X",
+   "G222X",
+   "D223X",
+   "A224R",
+   "D225T",
+   "T226F",
+   "E227P",
+   "H228C",
+   "Y229V",
+   "A231Q",
+   "S232I",
+   "A235E",
+   "F236N",
+   "ins237V",
+   "ins237N",
+   "A238D",
+   "A239N",
+   "F240V",
+   "P241I",
+   "K242F",
+   "A243K",
+   "S244W",
+   "M245L",
+   "I246R",
+   "V247L",
+   "M248W",
+   "S249Q",
+   "H250N"
+  ],
+  "n_subs": 48,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_046368305.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "P9S"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_046617615.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047061305.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047061385.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047225055.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047225485.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047324995.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047326675.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047370615.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047592405.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047687515.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047767935.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047770275.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047770315.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047774895.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047893855.1|OXA48|OXA-232": {
+  "organism_call": "OXA-232*NONEXACT",
+  "closest_ref": "OXA-232",
+  "subs": [
+   "A104T",
+   "D110N",
+   "Q168E",
+   "A171S",
+   "S214R"
+  ],
+  "n_subs": 5,
+  "internal_stops": 0,
+  "prot_len": 266
+ },
+ "GCA_047893895.1|NDM|NDM-4": {
+  "organism_call": "NDM-4*NONEXACT",
+  "closest_ref": "NDM-4",
+  "subs": [
+   "M1N",
+   "E2S",
+   "L3A"
+  ],
+  "n_subs": 3,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047894095.1|NDM|NDM-4": {
+  "organism_call": "NDM-4*NONEXACT",
+  "closest_ref": "NDM-4",
+  "subs": [
+   "M1N",
+   "E2S",
+   "L3A"
+  ],
+  "n_subs": 3,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047894795.1|NDM|NDM-4": {
+  "organism_call": "NDM-4*NONEXACT",
+  "closest_ref": "NDM-4",
+  "subs": [
+   "M1N",
+   "E2S",
+   "L3A"
+  ],
+  "n_subs": 3,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_047919235.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_048020515.1|NDM|NDM-4": {
+  "organism_call": "NDM-4*NONEXACT",
+  "closest_ref": "NDM-4",
+  "subs": [
+   "M1N",
+   "E2S",
+   "L3A"
+  ],
+  "n_subs": 3,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048040455.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048040515.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048163045.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048214015.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048226695.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048228095.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048228175.1|OXA48|OXA-48": {
+  "organism_call": "OXA-48*NONEXACT",
+  "closest_ref": "OXA-48",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 266
+ },
+ "GCA_048228195.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048234395.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048234395.1|OXA48|OXA-48": {
+  "organism_call": "OXA-48*NONEXACT",
+  "closest_ref": "OXA-48",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 266
+ },
+ "GCA_048237495.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048243525.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048244145.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048247675.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048247675.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "V88L",
+   "M154L"
+  ],
+  "n_subs": 2,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048418155.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048666625.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048896385.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048899545.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_048900405.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_049008965.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_049009105.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_049201835.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_049222765.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_049232105.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_049236645.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_049417105.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_049569315.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_049569975.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_049569975.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "V88L",
+   "M154L"
+  ],
+  "n_subs": 2,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_049597815.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_049727745.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_049744055.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_049767375.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_049773835.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050222225.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050224095.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050231535.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050358295.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050379495.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "H8P",
+   "P9V"
+  ],
+  "n_subs": 2,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050495165.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050503295.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050505255.1|OXA48|OXA-244": {
+  "organism_call": "OXA-244*NONEXACT",
+  "closest_ref": "OXA-244",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 266
+ },
+ "GCA_050582025.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050582225.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "del262T",
+   "del263A",
+   "del264R",
+   "del265M",
+   "del266A",
+   "del267D",
+   "del268K",
+   "del269L",
+   "del270R",
+   "del271*"
+  ],
+  "n_subs": 10,
+  "internal_stops": 0,
+  "prot_len": 261
+ },
+ "GCA_050583085.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050589325.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050595685.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050595725.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050595725.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "V88L",
+   "M154L"
+  ],
+  "n_subs": 2,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050595745.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050595745.1|NDM|NDM-4": {
+  "organism_call": "NDM-4*NONEXACT",
+  "closest_ref": "NDM-4",
+  "subs": [
+   "V88L"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050600985.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050621975.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050622055.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050622335.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050690955.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "del262T",
+   "del263A",
+   "del264R",
+   "del265M",
+   "del266A",
+   "del267D",
+   "del268K",
+   "del269L",
+   "del270R",
+   "del271*"
+  ],
+  "n_subs": 10,
+  "internal_stops": 0,
+  "prot_len": 261
+ },
+ "GCA_050722475.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "M265I"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050724915.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "D225E"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050751435.1|NDM|NDM-4": {
+  "organism_call": "NDM-4*NONEXACT",
+  "closest_ref": "NDM-4",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050779185.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050814845.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050868955.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050899035.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_050911175.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_051108515.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_051110195.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_051110715.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_051205915.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "T162I"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_051221245.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_051377845.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_051414975.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_051556385.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_051681945.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052025055.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052304835.1|NDM|NDM-9": {
+  "organism_call": "NDM-9*NONEXACT",
+  "closest_ref": "NDM-9",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052327945.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052402965.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052423535.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052429165.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052445325.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052445325.1|NDM|NDM-4": {
+  "organism_call": "NDM-4*NONEXACT",
+  "closest_ref": "NDM-4",
+  "subs": [
+   "V88L"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052447675.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052452765.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052555075.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052566955.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052566975.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052567035.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052568655.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "E2D"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052575695.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052581555.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052594815.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "A243T"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052699205.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052709045.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_052942835.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_052942855.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_052942875.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_052942895.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_052942915.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_052942935.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_052942955.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_052942975.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_052942995.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_052943015.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_052943055.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_053019835.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053026865.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053058365.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053194025.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "G29D"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053282945.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053300235.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053300935.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053301855.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053336735.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_053336755.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_053337215.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 231,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_053366035.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "E2D"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053511045.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053513495.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "del146N",
+   "Q147G",
+   "L148I",
+   "A149G",
+   "P150S",
+   "Q151I",
+   "E152N",
+   "G153H",
+   "del155V",
+   "A156F",
+   "Q158P",
+   "S160P",
+   "L161K",
+   "T162Y",
+   "F163L",
+   "A164T",
+   "A165*",
+   "G167S",
+   "W168L",
+   "V169T",
+   "E170R",
+   "P171L",
+   "A172P",
+   "T173L",
+   "A174K",
+   "N176Q",
+   "ins177*",
+   "G178L",
+   "L180V",
+   "K181Q"
+  ],
+  "n_subs": 112,
+  "internal_stops": 8,
+  "prot_len": 271
+ },
+ "GCA_053634075.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053636775.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053810835.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053833015.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053848185.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "G36S"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053848345.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_053882515.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_053984655.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_054177645.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "del73V",
+   "A74C",
+   "S75R",
+   "N76F",
+   "G77Q",
+   "L78R",
+   "I79F",
+   "V80D",
+   "D82Q",
+   "G84W",
+   "V86P",
+   "L87R",
+   "V88A",
+   "V89G",
+   "D90G",
+   "T91R",
+   "A92Y",
+   "W93R",
+   "T94L",
+   "D96R",
+   "Q97*",
+   "T98P",
+   "A99D",
+   "Q100R",
+   "I101P",
+   "L102D",
+   "N103P",
+   "W104Q",
+   "I105L",
+   "K106D"
+  ],
+  "n_subs": 175,
+  "internal_stops": 5,
+  "prot_len": 271
+ },
+ "GCA_054232885.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_054488385.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "I137V"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_054792955.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "del1M",
+   "E2*",
+   "L3M",
+   "P4G",
+   "N5S",
+   "I6C",
+   "M7A",
+   "H8A",
+   "V10S",
+   "L13R",
+   "S14D",
+   "T15D",
+   "A16K",
+   "L17F",
+   "A18I",
+   "A19T",
+   "A20T",
+   "L21D",
+   "M22Y",
+   "S24Q",
+   "G25Q",
+   "del27M",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N",
+   "Q37N",
+   "Q38W"
+  ],
+  "n_subs": 229,
+  "internal_stops": 6,
+  "prot_len": 265
+ },
+ "GCA_054792955.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "del1M",
+   "E2*",
+   "L3M",
+   "P4G",
+   "N5S",
+   "I6C",
+   "M7A",
+   "H8A",
+   "V10S",
+   "L13R",
+   "S14D",
+   "T15D",
+   "A16K",
+   "L17F",
+   "A18I",
+   "A19T",
+   "A20T",
+   "L21D",
+   "M22Y",
+   "S24Q",
+   "G25Q",
+   "del27M",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N",
+   "Q37N",
+   "Q38W"
+  ],
+  "n_subs": 231,
+  "internal_stops": 6,
+  "prot_len": 265
+ },
+ "GCA_054794435.1|NDM|NDM-71": {
+  "organism_call": "NDM-71*NONEXACT",
+  "closest_ref": "NDM-71",
+  "subs": [
+   "D110N"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_054832835.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_054899285.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_054906495.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_054939575.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_054990805.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_055042675.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_055043335.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_055434245.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "M245I"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_055650505.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_055673235.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_055681775.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_055684445.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_055777485.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_055823745.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056014625.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056169505.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056368285.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056369405.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056464885.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056635355.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056700135.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056722265.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056740755.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "Q123K",
+   "M154L"
+  ],
+  "n_subs": 2,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056742915.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056779615.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056781405.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_056850695.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056850815.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056872095.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056969255.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_056969255.1|NDM|NDM-4": {
+  "organism_call": "NDM-4*NONEXACT",
+  "closest_ref": "NDM-4",
+  "subs": [
+   "D130N"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_057031295.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_057032335.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_057152855.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_057152885.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_057159825.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_057174215.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_057311595.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_057412325.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "M1*",
+   "E2P",
+   "ins3H",
+   "ins3*",
+   "ins3C",
+   "P4*",
+   "N5A",
+   "I6G",
+   "M7A",
+   "H8C",
+   "del11A",
+   "L13S",
+   "S14A",
+   "T15R",
+   "A16R",
+   "A19S",
+   "A20K",
+   "L21W",
+   "M22K",
+   "S24A",
+   "G25T",
+   "C26N",
+   "M27G",
+   "P28L",
+   "G29A",
+   "E30I",
+   "I31W",
+   "R32F",
+   "P33S",
+   "T34A"
+  ],
+  "n_subs": 228,
+  "internal_stops": 10,
+  "prot_len": 254
+ },
+ "GCA_057412325.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1*",
+   "E2P",
+   "ins3H",
+   "ins3*",
+   "ins3C",
+   "P4*",
+   "N5A",
+   "I6G",
+   "M7A",
+   "H8C",
+   "del11A",
+   "L13S",
+   "S14A",
+   "T15R",
+   "A16R",
+   "A19S",
+   "A20K",
+   "L21W",
+   "M22K",
+   "S24A",
+   "G25T",
+   "C26N",
+   "M27G",
+   "P28L",
+   "G29A",
+   "E30I",
+   "I31W",
+   "R32F",
+   "P33S",
+   "T34A"
+  ],
+  "n_subs": 228,
+  "internal_stops": 10,
+  "prot_len": 254
+ },
+ "GCA_057731325.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "del1M",
+   "E2H",
+   "L3*",
+   "del5N",
+   "I6L",
+   "M7H",
+   "H8*",
+   "P9C",
+   "V10*",
+   "K12G",
+   "L13A",
+   "S14C",
+   "T15P",
+   "A16V",
+   "L17K",
+   "A18S",
+   "A20R",
+   "L21R",
+   "M22L",
+   "L23A",
+   "G25K",
+   "C26W",
+   "M27K",
+   "P28L",
+   "G29A",
+   "E30T",
+   "I31N",
+   "R32G",
+   "P33L",
+   "T34A"
+  ],
+  "n_subs": 230,
+  "internal_stops": 10,
+  "prot_len": 255
+ },
+ "GCA_057961985.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "M1K",
+   "E2C",
+   "L3R",
+   "N5L",
+   "I6N",
+   "M7G",
+   "H8F",
+   "P9M",
+   "V10C",
+   "A11S",
+   "K12S",
+   "L13I",
+   "T15K",
+   "A16K",
+   "L17G",
+   "A18*",
+   "A19*",
+   "A20V",
+   "L21Y",
+   "M22H",
+   "L23H",
+   "S24R",
+   "G25L",
+   "C26F",
+   "M27A",
+   "P28T",
+   "G29V",
+   "E30P"
+  ],
+  "n_subs": 28,
+  "internal_stops": 2,
+  "prot_len": 271
+ },
+ "GCA_058031125.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058049925.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058075085.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058131415.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058131845.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058143285.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "R264S"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058143665.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058143815.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058143815.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "V88L",
+   "M154L"
+  ],
+  "n_subs": 2,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058143855.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058195915.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "D130G"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058313035.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_058365245.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058568365.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058666915.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_058746025.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058811805.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058816625.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058884745.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058884965.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058885805.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058885985.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058886745.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058887595.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058888465.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058892705.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058984805.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058985785.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058986525.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058988965.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_058993105.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_059020645.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "E108V"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_059034205.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "D130G"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_059209975.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_059225455.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_059621975.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "W104R",
+   "A149*",
+   "P150R",
+   "Q151G",
+   "E152D",
+   "M154C",
+   "V155G",
+   "del157A",
+   "del158Q",
+   "H159D",
+   "L161P"
+  ],
+  "n_subs": 11,
+  "internal_stops": 1,
+  "prot_len": 269
+ },
+ "GCA_059637815.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_059637835.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_059644635.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_059649585.1|NDM|NDM-9": {
+  "organism_call": "NDM-9*NONEXACT",
+  "closest_ref": "NDM-9",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_059682985.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "Q123K",
+   "M154L"
+  ],
+  "n_subs": 2,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_059707955.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_059932675.2|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "del211K",
+   "D212W",
+   "S213T",
+   "K214A",
+   "A215R",
+   "K216P",
+   "L218R",
+   "G219S",
+   "N220A",
+   "L221I",
+   "G222S",
+   "D223V",
+   "A224M",
+   "D225P",
+   "E227L",
+   "H228S",
+   "Y229T",
+   "A230T",
+   "A231P",
+   "S232R",
+   "A233Q",
+   "del236F",
+   "del237G",
+   "A238R",
+   "A239L",
+   "F240V",
+   "P241R",
+   "K242R",
+   "A243S",
+   "S244P"
+  ],
+  "n_subs": 52,
+  "internal_stops": 3,
+  "prot_len": 270
+ },
+ "GCA_059990755.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "A263V"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_059999485.1|OXA48|OXA-244": {
+  "organism_call": "OXA-244*NONEXACT",
+  "closest_ref": "OXA-244",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 266
+ },
+ "GCA_060054145.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_060060665.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_060112335.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_060135185.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_060148785.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_060161505.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_060176585.1|OXA48|OXA-244": {
+  "organism_call": "OXA-244*NONEXACT",
+  "closest_ref": "OXA-244",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 266
+ },
+ "GCA_060177345.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_060179445.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_060457165.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_060537785.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_060676325.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_060968875.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_060974915.1|NDM|NDM-7": {
+  "organism_call": "NDM-7*NONEXACT",
+  "closest_ref": "NDM-7",
+  "subs": [],
+  "n_subs": 0,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_061007145.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "Q158H"
+  ],
+  "n_subs": 1,
+  "internal_stops": 0,
+  "prot_len": 271
+ },
+ "GCA_061012805.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_061073645.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ },
+ "GCA_061369735.1|NDM|NDM-5": {
+  "organism_call": "NDM-5*NONEXACT",
+  "closest_ref": "NDM-5",
+  "subs": [
+   "del245M",
+   "del246I",
+   "del247V",
+   "del248M",
+   "del249S",
+   "del250H",
+   "del251S",
+   "del252A",
+   "del253P",
+   "del254D",
+   "del255S",
+   "del256R",
+   "del257A",
+   "del258A",
+   "del259I",
+   "del260T",
+   "del261H",
+   "del262T",
+   "del263A",
+   "del264R",
+   "del265M",
+   "del266A",
+   "del267D",
+   "del268K",
+   "del269L",
+   "del270R",
+   "del271*"
+  ],
+  "n_subs": 27,
+  "internal_stops": 0,
+  "prot_len": 244
+ },
+ "GCA_977071415.1|NDM|NDM-1": {
+  "organism_call": "NDM-1*NONEXACT",
+  "closest_ref": "NDM-1",
+  "subs": [
+   "M1A",
+   "E2P",
+   "L3G",
+   "P4R",
+   "N5E",
+   "I6A",
+   "M7E",
+   "del9P",
+   "del10V",
+   "del11A",
+   "K12R",
+   "L13I",
+   "T15R",
+   "A16C",
+   "L17I",
+   "A18D",
+   "A20E",
+   "L21R",
+   "M22V",
+   "L23H",
+   "S24A",
+   "G25R",
+   "C26*",
+   "M27N",
+   "G29P",
+   "E30D",
+   "I31D",
+   "R32W",
+   "T34A",
+   "I35N"
+  ],
+  "n_subs": 232,
+  "internal_stops": 6,
+  "prot_len": 264
+ }
+}
