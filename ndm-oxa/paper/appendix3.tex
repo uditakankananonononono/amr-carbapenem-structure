@@ -1,0 +1,24 @@
+\section{Co-carriage combinations}
+5,803 assemblies carry both blaNDM and blaOXA-48-like genes. Top combinations:
+\begin{longtable}{llr}
+\caption{NDM x OXA-48-like co-carriage (assemblies).}\\
+\textbf{NDM allele}&\textbf{OXA-48-like allele}&\textbf{assemblies}\\\hline
+\endhead
+blaNDM-5&blaOXA-181&1,915\\
+blaNDM-1&blaOXA-48&1,747\\
+blaNDM-1&blaOXA-232&1,482\\
+blaNDM-5&blaOXA-48&1,456\\
+blaNDM-5&blaOXA-232&1,143\\
+blaNDM-1&blaOXA-181&385\\
+blaNDM-4&blaOXA-181&332\\
+blaNDM-5&blaOXA-1207&119\\
+blaNDM-5&blaOXA-244&108\\
+blaNDM&blaOXA-48&98\\
+blaNDM-5&blaOXA-1205&95\\
+blaNDM-5&blaOXA-484&80\\
+blaNDM&blaOXA-181&72\\
+blaNDM&blaOXA-232&66\\
+blaNDM-4&blaOXA-48&48\\
+\hline\end{longtable}
+\section{Data provenance and query record}
+All population data were pulled 2026-09-23 from the NCBI Pathogen Detection isolate backend (the solr API behind the public Isolates Browser), collection ``amr'' (AMRFinderPlus calls; refgene version recorded per row) and collection ``isolates'' (SNP-cluster join, 100-accession batches). Reference data: CARD latest data tarball (4,366,637 bytes, sha256 94b89501fc26daafbe65e4151c17a8b007dc1272c4f8201737e44e44cdd4c065); NCBI beta-lactamase allele registry Allele.tab/Allele-dna.fa (1,557 alleles). Structures: RCSB PDB 3SPU, 4EYL, 4S2P, 6P97 downloaded 2026-09-23. Assemblies: NCBI Datasets v2 API, GENOME\_FASTA, 711 of 722 targets delivered. Software: blastn 2.17.0+, Python 3.10.12, Biopython 1.88. Manifest: ndm-oxa/data/MANIFEST.sha256 (44 payloads).
