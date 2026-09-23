@@ -1,0 +1,34 @@
+{
+ "gate": "G4 (porin loss-of-function caller validation)",
+ "date": "2026-09-23",
+ "positive_control": {
+  "source": "Fajardo-Lubian et al., PLoS Pathogens 2022 (OmpK36 loop-3 survey), S1 Table (ppat.1010334.s003)",
+  "s1_xlsx_url": "https://journals.plos.org/plospathogens/article/file?type=supplementary&id=10.1371/journal.ppat.1010334.s003",
+  "s1_xlsx_sha256": "4810d146ebc0cfa20e5af84967eb8de5e606bfa2c7f4959810de8dc6b0977d8b",
+  "run_id": "DRR065574 (DDBJ/ENA)",
+  "documented": {
+   "ompK36_length_aa": 315,
+   "ompK35_length_aa": 140,
+   "ompK36_intact": "No",
+   "ompK35_intact": "No"
+  },
+  "assembly": "de novo MEGAHIT v1.2.9, 400k read-pair subsample (ENA fastq), 229 contigs N50 137941 bp",
+  "contigs_sha256": "b3fb6ab6e9eb1d37fef2b781bee764ebe60cfad5f666a8da1f7aceafbe9d5cb9",
+  "caller_result": {
+   "ompK36": "LOF_STOP, internal stop at residue 315 (matches documented 315-aa truncation exactly)",
+   "ompK35": "LOF_STOP, first internal stop at residue 141 (matches documented 140-aa truncation exactly)"
+  },
+  "verdict": "PASS - caller recovered both documented disruptions at exact residue positions"
+ },
+ "negative_control": {
+  "genome": "K. pneumoniae AF21 (NZ_OZ547068.1, porin-reference source)",
+  "result": {
+   "ompK35": "INTACT (100% cov/ident)",
+   "ompK36": "INTACT (100% cov/ident)"
+  },
+  "verdict": "PASS - no false-positive truncation"
+ },
+ "spike_in_controls": "(prior run) synthetic stop120 -> LOF_STOP, loop-3 12bp insertion -> INSERTION, large deletion -> PARTIAL: all detected",
+ "caller_script_sha256": "56cbe77107b75e9583f74ef9afd3b89c5cd3921434f2c5d0cf780c743f9eed86",
+ "refs_sha256": "f8c7842260947a060cb6a300d3953373df449f217076be8dac5809ebdfd855c4"
+}
