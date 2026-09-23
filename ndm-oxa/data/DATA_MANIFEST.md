@@ -15,7 +15,7 @@ All payloads committed under `ndm-oxa/data/` are checksummed in `MANIFEST.sha256
 | data/ncbi/erd_map_recent.json | NCBI pathogens-srv collection=isolates, fq asm_acc==[...] 100-batches | DRIFT: NCBI re-clusters erd SNP groups continuously. Committed copy re-derived 2026-09-23 14:22 IST, sha 04b6c348...; the analysis used the 13:05 IST snapshot sha a08622a5... (not byte-restorable). results/cluster_spread.json was computed from the original snapshot and is byte-locked. |
 | data/porin/*.fasta | NCBI eutils efetch: kp_ompK35/ompK36 from NZ_OZ547068 (fasta_cds_na), ec_ompC/ec_ompF from NC_000913.3 coords 2311646-2312749 / 985894-986982 (strand 2) | byte-identical regeneration |
 | data/pdb/*.pdb | RCSB PDB: 3SPU (NDM-1), 4EYL, 4S2P (OXA-48), 6P97 | byte-identical re-download |
-| data/g4/*, code/g4_porin_call.py | G4 porin-validation workbench; PLOS Pathogens 2022 S1 Table source: https://journals.plos.org/plospathogens/article/file?type=supplementary&id=10.1371/journal.ppat.1010334.s003 (xlsx sha256 4810d146ebc0cfa20e5af84967eb8de5e606bfa2c7f4959810de8dc6b0977d8b) | run DRR065574 (SRA), reads fetched via SRA toolkit |
+| data/g4/*, code/g4_porin_call.py | G4 porin-validation workbench; PLOS Pathogens 2022 S1 Table source: https://journals.plos.org/plospathogens/article/file?type=supplementary&id=10.1371/journal.ppat.1010334.s003 (xlsx committed at data/g4/ppat.1010334.s003.xlsx, sha256 4810d146ebc0cfa20e5af84967eb8de5e606bfa2c7f4959810de8dc6b0977d8b) | run DRR065574 (SRA), reads fetched via SRA toolkit |
 
 ## Not committed (re-derivable)
 
