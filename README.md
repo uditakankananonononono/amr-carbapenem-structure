@@ -10,6 +10,8 @@ Each slice is self-contained: `code/`, `data/` (manifests + checksums, not bulk 
 
 ## Documentary readiness audit (2026-10-10)
 
+Addendum (2026-10-10, later same day): the amendment set landed - paper reference and gates-path corrections, manifest-count corrections (now 60 entries), and the rebuilt paper PDF; see ndm-oxa/DATA_MANIFEST.md and ndm-oxa/SEAL.md.
+
 Verification only, with no new compute, predictions or nominations. All 52
 entries of `ndm-oxa/data/MANIFEST.sha256` matched the current public bytes.
 The G4 addendum records a published-genome control, while the existing paper
