@@ -11,3 +11,9 @@ Structural effects of KPC variants on carbapenem / ceftazidime-avibactam binding
 - results/master_allele_table.tsv - one row per allele (296).
 - results/figures/ - F1-F5 PNG.
 - paper/ - research paper (source + PDF).
+
+## Chronology note (2026-10-10)
+Some commits in this slice's history share identical author timestamps. Equal
+author timestamps are not ordering evidence; commit order is established by DAG
+parent-child order, and gate precedence by the gate-lock attestation recorded
+in the gates commit.
