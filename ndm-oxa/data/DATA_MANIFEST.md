@@ -33,3 +33,25 @@ All payloads committed under `ndm-oxa/data/` are checksummed in `MANIFEST.sha256
 NDM re-pull appended rows 022_PDT003397934.1, 041_PDT003397934.1.
 OXA-48-family re-pull appended rows 017_/025_PDT003380424.1, 023_/042_PDT003397930.1,
 039_/051_PDT003397934.1. All reported results use the trimmed snapshot.
+
+## Byte-identical duplicates (cataloged 2026-10-10)
+
+Two payloads exist at two paths each, byte-identical; both paths are preserved:
+- `data/download_targets_stats.json` == `data/ncbi/download_targets_stats.json`
+  (sha256 60ed4e711048b3780d7792e3e01c810eaa59dcdd1bfca6bd6aa96ffc749b29f7)
+- `data/oxa48_family.json` == `data/card/oxa48_family.json`
+  (sha256 348a1acf1ae306bee628ba04aaac5a7e721b5447230958eb5a397aaea1025175)
+
+## Manifest notes (2026-10-10)
+
+- `MANIFEST.sha256` grew 44 (original payload manifest `MANIFEST.json`) -> 52
+  (2026-09-23 committed-set regeneration) -> 60 (2026-10-10: added
+  `GATES_LOCKED.md`, `code/g4_porin_call.py`, `data/DATA_MANIFEST.md`,
+  `data/MANIFEST.json`, both duplicate paths above, `paper/paper.pdf`,
+  `paper/paper.pdf.sha256`).
+- A manifest cannot hash itself: `MANIFEST.sha256`'s own integrity is anchored
+  by git history and the slice seal record.
+- `data/g4/G4_MANIFEST_ADDENDUM.sha256` (2026-09-23 14:25 IST) is a dated
+  snapshot: its `paper/paper.pdf` line records the pre-amendment PDF hash
+  (d6f00845...). The current PDF hash is tracked in `MANIFEST.sha256` and
+  `paper/paper.pdf.sha256`.
